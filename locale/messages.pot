@@ -1,0 +1,16 @@
+#. default-message: Edit cells
+msgid "_spec.name"
+msgstr ""
+
+#. default-message: Overwrite table values one at a time.
+msgid "_spec.description"
+msgstr ""
+
+#. default-message: Cell Editor
+msgid "_spec.parameters.celledits.name"
+msgstr ""
+
+#. default-message: Double-click cells to edit values
+msgid "_spec.parameters.no-param-text.name"
+msgstr ""
+
